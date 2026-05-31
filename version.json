@@ -2,6 +2,6 @@
   "latest": "7.0.8",
   "min_app": "7.0.0",
   "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.8/patch-7.0.8.zip",
-  "sha256": "7d94a79b62ae3bb84f456b8aa496423736e92c3de6f513640d5f54e078a24658",
-  "changelog": "Fix skip version update"
+  "sha256": "6f19782d149fb53ac6ebab2f4ca5ff4ed54dfc87fe1c33efeea836d174a1916a",
+  "changelog": "Full cumulative patch"
 }
