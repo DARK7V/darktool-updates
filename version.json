@@ -2,6 +2,6 @@
   "latest": "7.0.5",
   "min_app": "7.0.0",
   "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.5/patch-7.0.5.zip",
-  "sha256": "d58d82f120828c7e91705a4c4c2a90af46367e7e012cd8885a30b3ffdfecab60",
-  "changelog": "ثيمات بني/أسود/أبيض"
+  "sha256": "df73e016056536d688070d747bce79928d5a50be5279a29a1b7967ac02c1cefe",
+  "changelog": "زر تيليجرام login"
 }
