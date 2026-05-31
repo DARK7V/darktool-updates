@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.4",
+  "latest": "7.0.5",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.4/patch-7.0.4.zip",
-  "sha256": "ea346794c27986149b4409db297a6beea0c9daa6f3f032504a4af57199db0af3",
-  "changelog": "وصف"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.5/patch-7.0.5.zip",
+  "sha256": "d58d82f120828c7e91705a4c4c2a90af46367e7e012cd8885a30b3ffdfecab60",
+  "changelog": "ثيمات بني/أسود/أبيض"
 }
