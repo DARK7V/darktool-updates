@@ -1,7 +1,7 @@
 {
   "latest": "7.0.1",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/YOUR_GITHUB_USER/darktool-updates/releases/download/v7.0.1/patch-7.0.1.zip",
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.1/patch-7.0.1.zip",
   "sha256": "paste_sha256_here",
   "changelog": "Example: device tab fixes + new Samsung models"
 }
