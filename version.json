@@ -1,7 +1,11 @@
 {
+<<<<<<< HEAD
   "latest": "7.0.6",
+=======
+  "latest": "7.0.10",
+>>>>>>> de79659f1035875b2531b75291046fd900d2944e
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.5/patch-7.0.5.zip",
-  "sha256": "df73e016056536d688070d747bce79928d5a50be5279a29a1b7967ac02c1cefe",
-  "changelog": "زر تيليجرام login"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.10/patch-7.0.10.zip",
+  "sha256": "1790c9db91901d9e246c536e503c6ecb295608a70e6537680ae703cb803d9ec9",
+  "changelog": "EDL + loaders + تحسين التحديث"
 }
