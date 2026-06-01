@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.13",
+  "latest": "7.0.14",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.13/patch-7.0.13.zip",
-  "sha256": "85ac42ecbe4c272cc8441f4f82c11058ec73797ab5e5f98576930ca1f3cda848",
-  "changelog": "• دعم EDL و Loaders• نافذة ما الجديد بعد التحديث• إصلاح مسار adb/edl داخل _internal• تحسين تبويب الأجهزة"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.14/patch-7.0.14.zip",
+  "sha256": "9b2e4876c649a72a9c1b59dc6a506a7afdea72bf9a2ea404b66eb11c8636fcba",
+  "changelog": "UPGRADE PRODECTION  V1 V2 B1 B2"
 }
