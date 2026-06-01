@@ -1,11 +1,15 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "latest": "7.0.6",
 =======
   "latest": "7.0.10",
 >>>>>>> de79659f1035875b2531b75291046fd900d2944e
+=======
+  "latest": "7.0.12",
+>>>>>>> e757ff7baac22f7f4bbe5a5a05a7d6de97c69208
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.10/patch-7.0.10.zip",
-  "sha256": "1790c9db91901d9e246c536e503c6ecb295608a70e6537680ae703cb803d9ec9",
-  "changelog": "EDL + loaders + تحسين التحديث"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.12/patch-7.0.12.zip",
+  "sha256": "2cc41bfdb01d355f6d5429ee60e3b96e4af5093262faa05ff73e69d9e9d77ca4",
+  "changelog": "وصف التحديث"
 }
