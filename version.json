@@ -2,6 +2,6 @@
   "latest": "7.0.14",
   "min_app": "7.0.0",
   "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.14/patch-7.0.14.zip",
-  "sha256": "9b2e4876c649a72a9c1b59dc6a506a7afdea72bf9a2ea404b66eb11c8636fcba",
-  "changelog": "UPGRADE PRODECTION  V1 V2 B1 B2"
+  "sha256": "45bce72acedb014e0e9e7b26a19d44ead881b1540320ec9a10e876e47f5fed19",
+  "changelog": "إزالة EDL والLoaders - adb/fastboot فقط"
 }
