@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.19",
+  "latest": "7.0.20",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.19/patch-7.0.19.zip",
-  "sha256": "914977565d217c632043e1179b919a5d1a65bceee3bda8b923df5a2b742b6426",
-  "changelog": "إصلاح EDL لتابلت X216B - أوامر وأكواد من السورس الأصلي + ADB مطابق"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.20/patch-7.0.20.zip",
+  "sha256": "4bab571eaaffe139830fc842c9aecfd3ec756e47f43abc7eb333fcaf00ba26c7",
+  "changelog": "إصلاح EDL تابلت X216B - مسارات frozen + تحميل lazy للمحرك"
 }
