@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.16",
+  "latest": "7.0.17",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.16/patch-7.0.16.zip",
-  "sha256": "484f7f2f5b930363d5d24283f7d4beb99831f2b471c7a346c01dff8427f3a561",
-  "changelog": "Samsung Tablet S218B + شريط تمرير + إيقاف OTA"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.17/patch-7.0.17.zip",
+  "sha256": "81c1f31832416e0efc5981e3cdbf340423e3b9cf447af80d570add776a963465",
+  "changelog": "سجل خطوات - done على كل خطوة"
 }
