@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.14",
+  "latest": "7.0.15",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.14/patch-7.0.14.zip",
-  "sha256": "45bce72acedb014e0e9e7b26a19d44ead881b1540320ec9a10e876e47f5fed19",
-  "changelog": "إزالة EDL والLoaders - adb/fastboot فقط"
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.15/patch-7.0.15.zip",
+  "sha256": "2ccfa0dbbe918731578f42be9cd8b8c98d993dd77a28b39d562ed85e600f4942",
+  "changelog": "Samsung Tablet S218B - EDL + Backup + ADB"
 }
