@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.25",
+  "latest": "7.0.26",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.25/patch-7.0.25.zip",
-  "sha256": "670e17a23e5443cd93c6b12b13785dbe18542fbd04d1cac077a79561e5ee5272",
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.26/patch-7.0.26.zip",
+  "sha256": "6b15076e17cda0d363e069280c170212cc2004500a115ca6915a287e09b7ae1f",
   "changelog": "Update V7.0.4"
 }
