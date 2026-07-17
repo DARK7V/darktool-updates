@@ -1,7 +1,7 @@
 {
-  "latest": "7.0.31",
+  "latest": "7.0.32",
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.31/patch_7.0.31.zip",
-  "sha256": "0a0f40afdef82359c1eb4887a5687919a1701aac9add55eed0fc30c04fbadfc6",
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.32/patch_7.0.32.zip",
+  "sha256": "0c09db4cd242eba759a203045d89a33bbbb5d3318a065da18e4aa47b08aa3406",
   "changelog": "تحديث واجهة الـ C# بالكامل بدون تشفير"
 }
