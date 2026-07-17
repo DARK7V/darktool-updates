@@ -1,0 +1,10 @@
+[
+    "DarkSoftwareTool.deps.json",
+    "DarkSoftwareTool.dll",
+    "DarkSoftwareTool.exe",
+    "DarkSoftwareTool.runtimeconfig.json",
+    "Data/keyauth_license.txt",
+    "Data/keyauth_session.json",
+    "Data/theme.json",
+    "files/README_assets.txt"
+]

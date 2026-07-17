@@ -1,8 +1,12 @@
 {
 <<<<<<< HEAD
-  "latest": "7.0.15",
+<<<<<<< HEAD
+  "latest": "7.0.20",
 =======
-  "latest": "7.0.21",
+  "latest": "7.0.23",
+>>>>>>> 0583a41d99b8eebedec5cbe92854d66deb81e403
+=======
+  "latest": "7.0.23",
 >>>>>>> 0583a41d99b8eebedec5cbe92854d66deb81e403
   "min_app": "7.0.0",
   "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.20/patch-7.0.20.zip",

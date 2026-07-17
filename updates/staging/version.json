@@ -1,7 +1,0 @@
-{
-  "latest": "7.0.3",
-  "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.3/patch-7.0.3.zip",
-  "sha256": "4e219bad6f531cda497d7dbf39c40ced263432635268b4041f37b10b8d9565df",
-  "changelog": "إصلاح تبويب الأجهزة"
-}
