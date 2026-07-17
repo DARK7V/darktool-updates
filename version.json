@@ -1,9 +1,7 @@
 {
   "latest": "7.0.24",
->>>>>>> 0583a41d99b8eebedec5cbe92854d66deb81e403
-
   "min_app": "7.0.0",
-  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.23/patch_7.0.23.zip",
+  "patch_url": "https://github.com/DARK7V/darktool-updates/releases/download/v7.0.24/patch_7.0.24.zip",
   "sha256": "4bab571eaaffe139830fc842c9aecfd3ec756e47f43abc7eb333fcaf00ba26c7",
   "changelog": "إصلاح EDL تابلت X216B - مسارات frozen + تحميل lazy للمحرك"
 }
